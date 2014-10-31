@@ -16,7 +16,6 @@
 		3F494A611A03BE4D00A45C57 /* DEEPdtTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F494A601A03BE4D00A45C57 /* DEEPdtTests.swift */; };
 		3F494A9D1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-001.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F494A6A1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-001.jpg */; };
 		3F494A9E1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-002.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F494A6B1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-002.jpg */; };
-		3F494A9F1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-003.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F494A6C1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-003.jpg */; };
 		3F494AA01A03C23C00A45C57 /* DT_Playbook_Flashlab-page-004.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F494A6D1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-004.jpg */; };
 		3F494AA11A03C23C00A45C57 /* DT_Playbook_Flashlab-page-005.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F494A6E1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-005.jpg */; };
 		3F494AA21A03C23C00A45C57 /* DT_Playbook_Flashlab-page-006.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F494A6F1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-006.jpg */; };
@@ -65,6 +64,7 @@
 		3F494ACD1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F494A9A1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-051.jpg */; };
 		3F494ACE1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-052.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F494A9B1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-052.jpg */; };
 		3F494ACF1A03C23C00A45C57 /* mvps_mvifi_logo (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 3F494A9C1A03C23C00A45C57 /* mvps_mvifi_logo (1).png */; };
+		3F494AD11A03CDA200A45C57 /* DT_Playbook_Flashlab-page-003-notext.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F494AD01A03CDA200A45C57 /* DT_Playbook_Flashlab-page-003-notext.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -91,7 +91,6 @@
 		3F494A601A03BE4D00A45C57 /* DEEPdtTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DEEPdtTests.swift; sourceTree = "<group>"; };
 		3F494A6A1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-001.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "DT_Playbook_Flashlab-page-001.jpg"; sourceTree = "<group>"; };
 		3F494A6B1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-002.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "DT_Playbook_Flashlab-page-002.jpg"; sourceTree = "<group>"; };
-		3F494A6C1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-003.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "DT_Playbook_Flashlab-page-003.jpg"; sourceTree = "<group>"; };
 		3F494A6D1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-004.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "DT_Playbook_Flashlab-page-004.jpg"; sourceTree = "<group>"; };
 		3F494A6E1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-005.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "DT_Playbook_Flashlab-page-005.jpg"; sourceTree = "<group>"; };
 		3F494A6F1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-006.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "DT_Playbook_Flashlab-page-006.jpg"; sourceTree = "<group>"; };
@@ -140,6 +139,7 @@
 		3F494A9A1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "DT_Playbook_Flashlab-page-051.jpg"; sourceTree = "<group>"; };
 		3F494A9B1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-052.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "DT_Playbook_Flashlab-page-052.jpg"; sourceTree = "<group>"; };
 		3F494A9C1A03C23C00A45C57 /* mvps_mvifi_logo (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mvps_mvifi_logo (1).png"; sourceTree = "<group>"; };
+		3F494AD01A03CDA200A45C57 /* DT_Playbook_Flashlab-page-003-notext.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "DT_Playbook_Flashlab-page-003-notext.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,9 +163,9 @@
 		3F494A391A03BE4D00A45C57 = {
 			isa = PBXGroup;
 			children = (
+				3F494AD01A03CDA200A45C57 /* DT_Playbook_Flashlab-page-003-notext.jpg */,
 				3F494A6A1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-001.jpg */,
 				3F494A6B1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-002.jpg */,
-				3F494A6C1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-003.jpg */,
 				3F494A6D1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-004.jpg */,
 				3F494A6E1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-005.jpg */,
 				3F494A6F1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-006.jpg */,
@@ -364,7 +364,6 @@
 				3F494AA21A03C23C00A45C57 /* DT_Playbook_Flashlab-page-006.jpg in Resources */,
 				3F494ACF1A03C23C00A45C57 /* mvps_mvifi_logo (1).png in Resources */,
 				3F494AA11A03C23C00A45C57 /* DT_Playbook_Flashlab-page-005.jpg in Resources */,
-				3F494A9F1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-003.jpg in Resources */,
 				3F494AC91A03C23C00A45C57 /* DT_Playbook_Flashlab-page-046.jpg in Resources */,
 				3F494ACA1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-047.jpg in Resources */,
 				3F494AB91A03C23C00A45C57 /* DT_Playbook_Flashlab-page-030.jpg in Resources */,
@@ -393,6 +392,7 @@
 				3F494AB21A03C23C00A45C57 /* DT_Playbook_Flashlab-page-022.jpg in Resources */,
 				3F494AA91A03C23C00A45C57 /* DT_Playbook_Flashlab-page-013.jpg in Resources */,
 				3F494AB51A03C23C00A45C57 /* DT_Playbook_Flashlab-page-026.jpg in Resources */,
+				3F494AD11A03CDA200A45C57 /* DT_Playbook_Flashlab-page-003-notext.jpg in Resources */,
 				3F494ACD1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-051.jpg in Resources */,
 				3F494AAB1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-015.jpg in Resources */,
 				3F494AAF1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-019.jpg in Resources */,
@@ -615,6 +615,7 @@
 				3F494A661A03BE4D00A45C57 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F494A671A03BE4D00A45C57 /* Build configuration list for PBXNativeTarget "DEEPdtTests" */ = {
 			isa = XCConfigurationList;
@@ -623,6 +624,7 @@
 				3F494A691A03BE4D00A45C57 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

@@ -160,7 +160,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3F494A391A03BE4D00A45C57 = {
+		3F075EF71A0A6C8700F2EBD0 /* Images */ = {
 			isa = PBXGroup;
 			children = (
 				3F494AD01A03CDA200A45C57 /* DT_Playbook_Flashlab-page-003-notext.jpg */,
@@ -214,6 +214,14 @@
 				3F494A9A1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-051.jpg */,
 				3F494A9B1A03C23C00A45C57 /* DT_Playbook_Flashlab-page-052.jpg */,
 				3F494A9C1A03C23C00A45C57 /* mvps_mvifi_logo (1).png */,
+			);
+			name = Images;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		3F494A391A03BE4D00A45C57 = {
+			isa = PBXGroup;
+			children = (
 				3F494A441A03BE4D00A45C57 /* DEEPdt */,
 				3F494A5D1A03BE4D00A45C57 /* DEEPdtTests */,
 				3F494A431A03BE4D00A45C57 /* Products */,
@@ -232,6 +240,7 @@
 		3F494A441A03BE4D00A45C57 /* DEEPdt */ = {
 			isa = PBXGroup;
 			children = (
+				3F075EF71A0A6C8700F2EBD0 /* Images */,
 				3F494A471A03BE4D00A45C57 /* AppDelegate.swift */,
 				3F494A4C1A03BE4D00A45C57 /* ViewController.swift */,
 				3F494A4E1A03BE4D00A45C57 /* Main.storyboard */,
